@@ -1,0 +1,8 @@
+Prompt 1: Explique computação quantica
+
+Prompt 2: Explique a física envolvida no emaranhamento quantico de um qubit como se eu fosse uma criança de 5 anos
+
+Prompt 3: Crie um programa para calcular a quantidade de calorias que uma pessoa deve consumir por dia
+
+Prompt 4: Crie um programa em C para calcular a quantidade de calorias que uma pessoa deve consumir por dia, verificando se os valores de entrada são compatíveis. Exemplo: Um valor de entrada representando o peso não pode ser negativo, então o programa deve pedir novamente até que a entrada seja válida   
+
